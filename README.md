@@ -1,4 +1,4 @@
-# s21_smartcalc
+# Smartcalc
 ## Calculator for evaluating expressions written in infix notation and plotting graph of functions. Project is written in c++ with QT.
 
 * You can write any expression in input line and evaluate this expression by clicking '=' button.
